@@ -1,0 +1,5 @@
+.player-card {
+  --team-color: #fff;
+
+  border: 3px solid var(--team-color);
+}
